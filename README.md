@@ -8,7 +8,9 @@ CS50WP with Python and JavaScript picks up where Harvard University’s CS50 lea
                                                              
                                                              Instructor: Brian Yu
                                                              
-                                                          | Syntax | Description |
+                                                        
+
+  | Syntax | Description |
                                                           | ----------- | ----------- |
                                                           | Header | Title |
-                                                          | Paragraph | Text |                                         
+                                                          | Paragraph | Text |     
