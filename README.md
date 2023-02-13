@@ -12,6 +12,6 @@ CS50WP with Python and JavaScript picks up where Harvard University’s CS50 lea
 
 | Name      | Description | Video     |
 | :---        |    :----:   |          ---: |
-| Search      | Design a Google Search       | YouTube   |
-| Wiki   | Design a similar encyclopedia        | YouTube      |
+| [Search](https://github.com/Codewithvico/search)      | Design a Google Search       | [YouTube](https://www.youtube.com/watch?v=h_qyR8uGL58)   |
+| [Wiki](https://github.com/Codewithvico/wiki)   | Design a similar encyclopedia        | [YouTube](https://www.youtube.com/watch?v=kqoXWyncciA)      |
 
