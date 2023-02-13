@@ -10,8 +10,8 @@ CS50WP with Python and JavaScript picks up where Harvard University’s CS50 lea
                                                              
                                                         
 
-| Syntax      | Description | Test Text     |
+| Name      | Description | Video     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Search      | Design a Google Search       | YouTube   |
+| Wiki   | Design a similar encyclopedia        | YouTube      |
 
